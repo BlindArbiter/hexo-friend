@@ -1,0 +1,26 @@
+{
+  "version": "v2",
+  "content": [
+    {
+      "title": "GhDemi",
+      "url": "https://ghdemi.github.io/",
+      "avatar": "https://ghdemi.github.io/images/favicon.ico",
+      "screenshot": "https://raw.githubusercontent.com/GhDemi/Picture/main/BlogImg/orange.jpg",
+      "description": "今晚一定早睡"
+    },
+    {
+      "title": "Modifier",
+      "url": "https://shmodifier.github.io/",
+      "avatar": "https://blindarbiter.github.io/img/网站/modifier.png",
+      "screenshot": "https://shmodifier.github.io/img/PP.jpg",
+      "description": "美丽废物"
+    },
+    {
+      "title": "Drunkbaby",
+      "url": "https://drun1baby.top/",
+      "avatar": "https://drun1baby.top/favicon.png",
+      "screenshot": "",
+      "description": "小酌一壶"
+    }
+  ]
+}
